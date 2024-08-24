@@ -110,7 +110,7 @@ See [formation of the dual](https://braesicke.de/subst4.htm#dual).
 ## The genitive
 Irish: _an tuiseal ginideach_
 
-### 
+### Uses of the genitive
 
 [^1]: Footnote
 [^equat-nom]: According to some sources, the **qualitative nominative** is etymologically an accusative. For instance, O'Nolan referes to it as an "accusative of specification ". [Citation needed.]
