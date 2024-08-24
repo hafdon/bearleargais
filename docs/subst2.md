@@ -60,12 +60,24 @@ However, the dative has its own forms in some dialects and in older literature. 
   - _Itheann an fear._ (The man is eating.)
 - as subject and predicate noun of a copula clause
   - _Is é an dochtúir an fear._ (The man is the doctor.)
-- as subject and object as nominative absolutus ( absolute nominative , an t-ainmneach leithliseach ) to change the word order in the sentence. (Left or right shift)
+- as subject and object as [nominative absolutus]([url](https://braesicke.de/satz5.htm#nomabsolut)) ( absolute nominative , an t-ainmneach leithliseach ) to change the word order in the sentence. (Left or right shift)
   - _An fear a chonaic mé inne, bhí sé ag dul abhaile._ (The man I saw yesterday was going home.)
-Nominative instead of the genitive, so-called "functional genitive", see there.
-The nominative is used with the following prepositions : seachas, go dtí, murach
-(these prepositions arose from verbs whose subject is nominally the noun in the nominative: seachas = seach + is = "as is", go dtí = "until come", murach = mura mbeadh = "if not were")
-after adjectives as a qualitative nominative ( an t-ainmneach cáilíochtúil , also called an t-ainmneach tagartha ) [ 2 ].
+- Nominative instead of the genitive, so-called "functional genitive", qv.
+
+#### Uses with prepositions
+
+- The nominative is used with the following prepositions. (These prepositions arose from verbs whose subject is nominally the noun in the nominative.):
+    - _seachas_ (besides, other than)
+        - ↦ seach + is = "as is"
+    - _go_ / _go dtí_ (to)
+        - ↦ go dtí = "until come"
+    - _murach_ (if not, only)
+      - ↦ mura mbeadh = "if not were"  
+
+
+- after adjectives as a **qualitative nominative**[^equat-nom]
+  - aka **an t-ainmneach cáilíochtúil**
+  - aka **an t-ainmneach tagartha**
 Comparative forms are often used, often in the superlative sense (see also here ), but adjectives in the basic form and as an equative are also possible, mostly used in the form of a copula-relative clause (except for equatives, which are only introduced by chomh
 ). In German, however, a genitive (or a paraphrase) is used instead of the nominative.
 e.g.: an fear is mó cáil = the man of greatest fame (lit.: "the man who is of greater fame")
@@ -84,3 +96,4 @@ also belongs here, e.g.: dá laghad airgead = however little money (lit.: "from 
 ### Nominative dual (an t-ainmneach déach)
 
 [^1]: Footnote
+[^equat-nom]: According to some sources, the **qualitative nominative** is etymologically an accusative. For instance, O'Nolan referes to it as an "accusative of specification ". [Citation needed.]
