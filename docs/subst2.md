@@ -60,34 +60,32 @@ However, the dative has its own forms in some dialects and in older literature. 
   - _Itheann an fear._ (The man is eating.)
 - as subject and predicate noun of a copula clause
   - _Is é an dochtúir an fear._ (The man is the doctor.)
-- as subject and object as [nominative absolutus]([url](https://braesicke.de/satz5.htm#nomabsolut)) ( absolute nominative , an t-ainmneach leithliseach ) to change the word order in the sentence. (Left or right shift)
+- as subject and object as [nominative absolutus](https://braesicke.de/satz5.htm#nomabsolut) ( absolute nominative , an t-ainmneach leithliseach ) to change the word order in the sentence. (Left or right shift)
   - _An fear a chonaic mé inne, bhí sé ag dul abhaile._ (The man I saw yesterday was going home.)
 - Nominative instead of the genitive, so-called "functional genitive", qv.
 
 #### Uses with prepositions
 
-- The nominative is used with the following prepositions. (These prepositions arose from verbs whose subject is nominally the noun in the nominative.):
-    - _seachas_ (besides, other than)
+- The nominative is used with the following [prepositions](https://braesicke.de/praepos.htm). (These prepositions arose from verbs whose subject is nominally the noun in the nominative.):
+    - _[seachas](https://braesicke.de/sonpraep.htm#seachas)_ (besides, other than)
         - ↦ seach + is = "as is"
-    - _go_ / _go dtí_ (to)
+    - _go_ / _[go dtí](https://braesicke.de/sonpraep.htm#go%20dti)_ (to)
         - ↦ go dtí = "until come"
-    - _murach_ (if not, only)
+    - _[murach](https://braesicke.de/sonpraep.htm#murach)_ (if not, only)
       - ↦ mura mbeadh = "if not were"  
-
 
 - after adjectives as a **qualitative nominative**[^equat-nom]
   - aka **an t-ainmneach cáilíochtúil**
   - aka **an t-ainmneach tagartha**
-Comparative forms are often used, often in the superlative sense (see also here ), but adjectives in the basic form and as an equative are also possible, mostly used in the form of a copula-relative clause (except for equatives, which are only introduced by chomh
-). In German, however, a genitive (or a paraphrase) is used instead of the nominative.
-e.g.: an fear is mó cáil = the man of greatest fame (lit.: "the man who is of greater fame")
-        Ní raibh duine … ba mhó áthas ná Niamh. = There was no man … who was happier than Niamh. (lit.: "man ... he-was greater joy")
-        an té is ard glór = the one with a loud voice (lit.: "the one with a high voice")
-        an té is lag creideamh = the one with weak faith (lit.: "the one with weak faith")
-        bean chomh maith ciall agus tuiscint leat = a woman with such good sense and understanding as you (lit.: "woman with such good sense...") The nominative after a gradual abstract noun , introduced by a or dá,
-also belongs here, e.g.: dá laghad airgead = however little money (lit.: "from his smallness money")
-
-
+- Comparative forms are often used, often in the superlative sense (see also [here](https://braesicke.de/adjekt2.htm#mo)), but adjectives in the basic form and as an equative are also possible, mostly used in the form of a copula-relative clause (except for equatives, which are only introduced by chomh).
+  - _an fear is mó cáil_ (the man of greatest fame; lit. the man that-is most reputation)
+  - _Ní raibh duine ... ba mhó áthas ná Niamh._ (There was no man … who was happier than Niamh.; lit. not was man ... that-was more happiness than Niamh.)
+  - _an té is ard glór_ (the one with a loud voice; lit. the one that-is high voice)
+  - _an té is lag creideamh_ (the one with weak faith; lit. the one that-is weak faith)
+  - _bean chomh maith ciall agus tuiscint leat_ = a woman with such good sense and understanding as you (lit.: "woman with such good sense...")
+  - The nominative after a [gradual abstract noun](https://braesicke.de/adjektiv.htm#ceime), introduced by a or dá,
+also belongs here
+    - _dá laghad airgead_ (however little money; lit. "however smallness money"[^dá]
 
 ### Nominative singular (an t-ainmneach uatha)
 
@@ -97,3 +95,4 @@ also belongs here, e.g.: dá laghad airgead = however little money (lit.: "from 
 
 [^1]: Footnote
 [^equat-nom]: According to some sources, the **qualitative nominative** is etymologically an accusative. For instance, O'Nolan referes to it as an "accusative of specification ". [Citation needed.]
+[^dá]: _dá_ here is, according to FGB, a "compound of preposition 'de' and particle 'a' used with abstract nouns denoting degree" and means "however". Bräsicke's original literal translation, "from his smallness money" implies that 'a' is the 3rd singular possessive pronoun meaning "his", but FGB's explanation would imply it's just a relative particle (which, like the 3rd singular possessive pronoun, also lenites).
