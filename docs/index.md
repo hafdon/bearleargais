@@ -13,7 +13,7 @@
 - Caibidil a Deich (Chapter 10): An tAlt (The article)
 - Caibidil a hAon Déag (Chapter 11): Na hUimhreacha (The Numbers)
 - Caibidil a Dó Dhéag (Chapter 12): Ranna Cainte Eile (Other parts of speech)
-- Caibidil a Tri Déag (Chapter 13): Abairt agus Comhréir (Sentence and Syntax)
+- [Caibidil a Tri Déag (Chapter 13): Abairt agus Comhréir (Sentence and Syntax)](./satz5.md)
 - Caibidil a Ceathair Déag (Chapter 14): Na hAthruithe Tosaigh (The Initial Sound Changes)
 - Caibidil a Cúig Déag (Chapter 15): Infhilleadh na Fréimhe (The root flexion)
 - Caibidil a Se Déag (Chapter 16): An Fhóineolaíocht (Phonology)
