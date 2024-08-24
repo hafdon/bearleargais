@@ -9,7 +9,7 @@
 - Nominative plural (an t-ainmneach iolra)
 - Nominative dual (an t-ainmneach déach)
 
-### The genitive (an tuiseal ginideach)
+### [An tuiseal ginideach (the genitive)](#the-genitive)
 
 - Uses of the genitive
   - Multiple genitives?
@@ -107,6 +107,10 @@ See [formation of the nominative plural](https://braesicke.de/subst4.htm#plural)
 ### Nominative dual (an t-ainmneach déach)
 See [formation of the dual](https://braesicke.de/subst4.htm#dual).
 
+## The genitive
+Irish: _an tuiseal ginideach_
+
+### 
 
 [^1]: Footnote
 [^equat-nom]: According to some sources, the **qualitative nominative** is etymologically an accusative. For instance, O'Nolan referes to it as an "accusative of specification ". [Citation needed.]
