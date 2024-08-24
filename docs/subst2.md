@@ -4,10 +4,10 @@
 
 ### The nominative (an tuiseal ainmneach)
 
-- [Use of the nominative](#use-of-the-nominative)
-  - Nominative singular (an t-ainmneach uatha)
-  - Nominative plural (an t-ainmneach iolra)
-  - Nominative dual (an t-ainmneach déach)
+- [Uses of the nominative](#uses-of-the-nominative)
+- Nominative singular (an t-ainmneach uatha)
+- Nominative plural (an t-ainmneach iolra)
+- Nominative dual (an t-ainmneach déach)
 
 ### The genitive (an tuiseal ginideach)
 Using the genitive
@@ -51,6 +51,36 @@ However, the dative has its own forms in some dialects and in older literature. 
 
 ## The nominative (an tuiseal ainmneach)
 
-### Use of the nominative
+
+
+
+### Uses of the nominative
+
+- as the subject of a sentence
+  - _Itheann an fear._ (The man is eating.)
+- as subject and predicate noun of a copula clause
+  - _Is é an dochtúir an fear._ (The man is the doctor.)
+- as subject and object as nominative absolutus ( absolute nominative , an t-ainmneach leithliseach ) to change the word order in the sentence. (Left or right shift)
+  - _An fear a chonaic mé inne, bhí sé ag dul abhaile._ (The man I saw yesterday was going home.)
+Nominative instead of the genitive, so-called "functional genitive", see there.
+The nominative is used with the following prepositions : seachas, go dtí, murach
+(these prepositions arose from verbs whose subject is nominally the noun in the nominative: seachas = seach + is = "as is", go dtí = "until come", murach = mura mbeadh = "if not were")
+after adjectives as a qualitative nominative ( an t-ainmneach cáilíochtúil , also called an t-ainmneach tagartha ) [ 2 ].
+Comparative forms are often used, often in the superlative sense (see also here ), but adjectives in the basic form and as an equative are also possible, mostly used in the form of a copula-relative clause (except for equatives, which are only introduced by chomh
+). In German, however, a genitive (or a paraphrase) is used instead of the nominative.
+e.g.: an fear is mó cáil = the man of greatest fame (lit.: "the man who is of greater fame")
+        Ní raibh duine … ba mhó áthas ná Niamh. = There was no man … who was happier than Niamh. (lit.: "man ... he-was greater joy")
+        an té is ard glór = the one with a loud voice (lit.: "the one with a high voice")
+        an té is lag creideamh = the one with weak faith (lit.: "the one with weak faith")
+        bean chomh maith ciall agus tuiscint leat = a woman with such good sense and understanding as you (lit.: "woman with such good sense...") The nominative after a gradual abstract noun , introduced by a or dá,
+also belongs here, e.g.: dá laghad airgead = however little money (lit.: "from his smallness money")
+
+
+
+### Nominative singular (an t-ainmneach uatha)
+
+### Nominative plural (an t-ainmneach iolra)
+
+### Nominative dual (an t-ainmneach déach)
 
 [^1]: Footnote
