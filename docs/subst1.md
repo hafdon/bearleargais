@@ -1,8 +1,8 @@
 ## Gender, number and case (inscne, uimhir agus tuiseal)
 
-- [the gender](https://bearleargais.onrender.com/subst3.htm) (an inscne)
-- [the number](https://bearleargais.onrender.com/subst4.htm) (an uimhir)
-- [the cases](https://bearleargais.onrender.com/subst2.htm) (na tuisil)
+- [the gender](./subst2.htm) (an inscne)
+- [the number](https://hafdon.github.io/bearleargais/subst2.htm) (an uimhir)
+- [the cases](https://hafdon.github.io/bearleargais/subst2.htm) (na tuisil)
 
 ## Declension (an díochlaonadh)
 
